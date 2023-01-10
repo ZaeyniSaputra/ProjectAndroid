@@ -1,0 +1,4 @@
+#Sun Nov 20 17:54:20 SGT 2022
+base.0=C\:\\Users\\ASUS\\AndroidStudioProjects\\RecyclerViewChallenge1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
